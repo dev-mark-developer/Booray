@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4366424792628037893
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4366424792628037891}
+  - component: {fileID: 4366424792628037890}
+  m_Layer: 0
+  m_Name: EmailAuthUIManager 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4366424792628037891
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4366424792628037893}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 611.65466, y: 682.5626, z: -157.17155}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4366424792628037890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4366424792628037893}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42a11d6e25292c045bfec22705965471, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MainCanvas: {fileID: 0}
+  LoginCanvas: {fileID: 0}
+  RegisterCanvas: {fileID: 0}
+  HomeCanvas: {fileID: 0}
+  VerifyEmailPanel: {fileID: 0}
+  ForgetPasswordPanel: {fileID: 0}
+  SignUpDisplayPic: {fileID: 0}
+  SignUpUserNameField: {fileID: 0}
+  UsernamewarningText: {fileID: 0}
+  SignUpemail: {fileID: 0}
+  EmailwarningText: {fileID: 0}
+  SignUppassword: {fileID: 0}
+  SignUpPasswordwarningText: {fileID: 0}
+  SignUpConfirmPasswordField: {fileID: 0}
+  SignUpconfirmPasswordwarningText: {fileID: 0}
+  SignInemail: {fileID: 0}
+  SignInEmailwarningText: {fileID: 0}
+  SignInpassword: {fileID: 0}
+  SignInPasswordwarningText: {fileID: 0}
+  VerifyField: {fileID: 0}
+  VerifyPinwarningText: {fileID: 0}
+  ReVerifyTimmerText: {fileID: 0}
+  ReverifyTimmerImg: {fileID: 0}
+  ForgetPasswordEmailField: {fileID: 0}
+  ForgetPasswordEmailWarningText: {fileID: 0}
+  ForgetPasswordGuideText: {fileID: 0}
+  LoginBackButton: {fileID: 0}
+  LoginRegisterButton: {fileID: 0}
+  RegisterLoginButton: {fileID: 0}
+  VerifyPanelBackButton: {fileID: 0}

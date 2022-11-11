@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 236dd732d1775ff4b8a311743c714b47
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gilroy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5bd1def037c406c44ba503fc7bb6e57e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

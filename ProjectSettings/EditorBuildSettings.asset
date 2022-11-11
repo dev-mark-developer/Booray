@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/LoginScene.unity
+    guid: 234c1a3d9d8e7944e89cc779b4865e42
+  - enabled: 1
+    path: Assets/_Scenes/MainScene 1.unity
+    guid: 9a09516ecd29b324d9de2dcc7c855483
+  - enabled: 1
+    path: Assets/_Scenes/GameScene.unity
+    guid: 8046e34d2e7f71f489e913d4a2d68bec
+  - enabled: 0
+    path: Assets/_Scenes/GameScene_old.unity
+    guid: c1ebd22ab56ba004fa492f258307b7bf
+  - enabled: 0
+    path: Assets/_Scenes/FullHouseGameScene2.unity
+    guid: c5ad3d7e946448e47915bdb7fb53a0b2
+  - enabled: 0
+    path: Assets/_Scenes/SpeedBetGameScene2.unity
+    guid: 240699b384183bb4791184fc7a7761b6
+  - enabled: 0
+    path: Assets/_Scenes/FullHouseGameScene.unity
+    guid: abce84af6bfe3c44684cbfad71506976
+  - enabled: 0
+    path: Assets/_Scenes/SpeedBetGameScene.unity
+    guid: 9f32c2c9370db08439ed21b884bdee7a
+  - enabled: 0
+    path: Assets/_Scenes/LobbyScene.unity
+    guid: 222f6450ce7a50446bc1f057e27aa1cb
+  - enabled: 0
+    path: Assets/PooledScrollList/Example/Scenes/Example (Horizontal & Vertical).unity
+    guid: d779e26bbf07e1b488be1ae457ce753e
+  - enabled: 0
+    path: Assets/_Scenes/PushNotificationScene.unity
+    guid: ddba2b05c4d9de64a88c89c18941aae4
+  - enabled: 0
+    path: Assets/_Scenes/MainScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/_Scenes/MainScene 2.unity
+    guid: f092dd1e2a542d340a81fe2b36d285ab
+  m_configObjects: {}

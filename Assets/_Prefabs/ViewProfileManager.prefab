@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4401573335398515327
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4401573335398515325}
+  - component: {fileID: 4401573335398515324}
+  m_Layer: 0
+  m_Name: ViewProfileManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4401573335398515325
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4401573335398515327}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4401573335398515324
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4401573335398515327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 558b966e65edfc443a3ec266f6e9309a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ProfileCanvas: {fileID: 0}
+  DeckSkinCanvas: {fileID: 0}
+  FriendUserNameTxt: {fileID: 0}
+  FriendImg: {fileID: 0}
+  ProfileDeckSkinImage: {fileID: 0}
+  ProfileDeckskinButtons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  FriendCoinTxt: {fileID: 0}
+  DefaultSprite: {fileID: 21300000, guid: 14ed7f0638b63784ca0e1002575d6eef, type: 3}
+  backBtn: {fileID: 0}
+  ViewSkinsBtn: {fileID: 0}
+  ViewSkinsBackBtn: {fileID: 0}
+  ViewSkinsCutBtn: {fileID: 0}
+  AddFriendButton: {fileID: 0}
+  ClassicBar: {fileID: 0}
+  SpeedBar: {fileID: 0}
+  FullHouseBar: {fileID: 0}
+  TournamentBar: {fileID: 0}
+  ClassicWinText: {fileID: 0}
+  ClassicLoseText: {fileID: 0}
+  ClassicPlayedText: {fileID: 0}
+  SpeedBetWinText: {fileID: 0}
+  SpeedBetLoseText: {fileID: 0}
+  SpeedBetPlayedText: {fileID: 0}
+  FullHouseWinText: {fileID: 0}
+  FullHouseLoseText: {fileID: 0}
+  FullHousePlayedText: {fileID: 0}
+  TournamentWinText: {fileID: 0}
+  TournamentLoseText: {fileID: 0}
+  TournamentPlayedText: {fileID: 0}
+  GPImagesPiechart:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  GPPievalues:
+  - 0
+  - 0
+  - 0
+  - 0
+  GWImagesPiechart:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  GWPievalues:
+  - 0
+  - 0
+  - 0
+  - 0
+  EmptyGamePlayedPieObj: {fileID: 0}
+  EmptyGameWonPieObj: {fileID: 0}
+  Loader: {fileID: 0}
+  avatarAtlus: {fileID: 4343727234628468602, guid: ed8f6c73fdb19784fb59bd1955b3edc4, type: 2}

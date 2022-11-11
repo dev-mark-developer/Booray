@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AvatarAtlus
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 480edef3f9eaa624ca60337a1b7a303d, type: 3}
+    - {fileID: 2800000, guid: 4408f88dc51f19a40ae2ac833f72d8d5, type: 3}
+    - {fileID: 2800000, guid: e70940a36e03cc842947531a0cf76450, type: 3}
+    - {fileID: 2800000, guid: 2242c6655cf328c4a9f0743cc9763402, type: 3}
+    - {fileID: 2800000, guid: 1d6826001a93e65449e5eb526bb69843, type: 3}
+    - {fileID: 2800000, guid: ca3b83507e9b2db4492f5e4b79a8a452, type: 3}
+    - {fileID: 2800000, guid: 14ed7f0638b63784ca0e1002575d6eef, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1d6826001a93e65449e5eb526bb69843, type: 3}
+  - {fileID: 21300000, guid: ca3b83507e9b2db4492f5e4b79a8a452, type: 3}
+  - {fileID: 21300000, guid: e70940a36e03cc842947531a0cf76450, type: 3}
+  - {fileID: 21300000, guid: 480edef3f9eaa624ca60337a1b7a303d, type: 3}
+  - {fileID: 21300000, guid: 2242c6655cf328c4a9f0743cc9763402, type: 3}
+  - {fileID: 21300000, guid: 14ed7f0638b63784ca0e1002575d6eef, type: 3}
+  - {fileID: 21300000, guid: 4408f88dc51f19a40ae2ac833f72d8d5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - lion
+  - mouse
+  - dog
+  - bear_01
+  - frog
+  - panda
+  - cat_01
+  m_RenderDataMap: {}
+  m_Tag: AvatarAtlus
+  m_IsVariant: 0

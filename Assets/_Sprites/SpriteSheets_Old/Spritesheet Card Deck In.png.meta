@@ -1,0 +1,2928 @@
+fileFormatVersion: 2
+guid: f6b35d9686b34724593104148a0ef729
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7395312787472387242
+    second: Spritesheet Card Deck In_0
+  - first:
+      213: -4073539483431773714
+    second: Spritesheet Card Deck In_1
+  - first:
+      213: -6989525583519027354
+    second: Spritesheet Card Deck In_2
+  - first:
+      213: -6454894743062727795
+    second: Spritesheet Card Deck In_3
+  - first:
+      213: -7783252173345378455
+    second: Spritesheet Card Deck In_4
+  - first:
+      213: 7673355797902811660
+    second: Spritesheet Card Deck In_5
+  - first:
+      213: -8167632620719471076
+    second: Spritesheet Card Deck In_6
+  - first:
+      213: 7215380671377607252
+    second: Spritesheet Card Deck In_7
+  - first:
+      213: 9057579318514390370
+    second: Spritesheet Card Deck In_116
+  - first:
+      213: -3390375201832948514
+    second: Spritesheet Card Deck In_9
+  - first:
+      213: -6762600360418372409
+    second: Spritesheet Card Deck In_10
+  - first:
+      213: -2120820625184125290
+    second: Spritesheet Card Deck In_11
+  - first:
+      213: -2745523909660044538
+    second: Spritesheet Card Deck In_12
+  - first:
+      213: -7244874026298744783
+    second: Spritesheet Card Deck In_13
+  - first:
+      213: 5775850334220115651
+    second: Spritesheet Card Deck In_14
+  - first:
+      213: 8445675413720515753
+    second: Spritesheet Card Deck In_15
+  - first:
+      213: 2901465492275765189
+    second: Spritesheet Card Deck In_16
+  - first:
+      213: 3113664575276601532
+    second: Spritesheet Card Deck In_17
+  - first:
+      213: -4140671867640626347
+    second: Spritesheet Card Deck In_18
+  - first:
+      213: -8718744679896053350
+    second: Spritesheet Card Deck In_19
+  - first:
+      213: -4917625663379036717
+    second: Spritesheet Card Deck In_20
+  - first:
+      213: -3960903481165070838
+    second: Spritesheet Card Deck In_21
+  - first:
+      213: -8019081323780921553
+    second: Spritesheet Card Deck In_22
+  - first:
+      213: 5441466285985664215
+    second: Spritesheet Card Deck In_23
+  - first:
+      213: -5725254872292849647
+    second: Spritesheet Card Deck In_24
+  - first:
+      213: -878906920519346221
+    second: Spritesheet Card Deck In_25
+  - first:
+      213: -702751481469651291
+    second: Spritesheet Card Deck In_117
+  - first:
+      213: -2766676975728463879
+    second: Spritesheet Card Deck In_27
+  - first:
+      213: 4875964808185140408
+    second: Spritesheet Card Deck In_28
+  - first:
+      213: -8597633723507694509
+    second: Spritesheet Card Deck In_29
+  - first:
+      213: 5944442085970989210
+    second: Spritesheet Card Deck In_30
+  - first:
+      213: -1143999516705734279
+    second: Spritesheet Card Deck In_31
+  - first:
+      213: -6764933631825838143
+    second: Spritesheet Card Deck In_32
+  - first:
+      213: 1192117750968511070
+    second: Spritesheet Card Deck In_33
+  - first:
+      213: -5032470607327678015
+    second: Spritesheet Card Deck In_34
+  - first:
+      213: 3880713830908856010
+    second: Spritesheet Card Deck In_35
+  - first:
+      213: 60410383853402426
+    second: Spritesheet Card Deck In_36
+  - first:
+      213: -5060507091146161257
+    second: Spritesheet Card Deck In_37
+  - first:
+      213: -5508491194012897019
+    second: Spritesheet Card Deck In_38
+  - first:
+      213: 7392639088121300775
+    second: Spritesheet Card Deck In_39
+  - first:
+      213: -7232469996210390771
+    second: Spritesheet Card Deck In_40
+  - first:
+      213: -8255238342683693638
+    second: Spritesheet Card Deck In_41
+  - first:
+      213: -7484868311222923125
+    second: Spritesheet Card Deck In_42
+  - first:
+      213: 641642451143626553
+    second: Spritesheet Card Deck In_43
+  - first:
+      213: -7624724059514622883
+    second: Spritesheet Card Deck In_118
+  - first:
+      213: 3919479794674394783
+    second: Spritesheet Card Deck In_45
+  - first:
+      213: -6367521211395908462
+    second: Spritesheet Card Deck In_46
+  - first:
+      213: -3436132173585688595
+    second: Spritesheet Card Deck In_47
+  - first:
+      213: -8453264506164520900
+    second: Spritesheet Card Deck In_48
+  - first:
+      213: -8815460385495813609
+    second: Spritesheet Card Deck In_49
+  - first:
+      213: 7560879915238153538
+    second: Spritesheet Card Deck In_50
+  - first:
+      213: 3256866563157780949
+    second: Spritesheet Card Deck In_51
+  - first:
+      213: -638298806263006408
+    second: Spritesheet Card Deck In_52
+  - first:
+      213: -617518515157153420
+    second: Spritesheet Card Deck In_53
+  - first:
+      213: -6355729227361954575
+    second: Spritesheet Card Deck In_54
+  - first:
+      213: -5158247626615802666
+    second: Spritesheet Card Deck In_55
+  - first:
+      213: 3100019734163083085
+    second: Spritesheet Card Deck In_56
+  - first:
+      213: -3863239049414140522
+    second: Spritesheet Card Deck In_57
+  - first:
+      213: 1840340611140731076
+    second: Spritesheet Card Deck In_58
+  - first:
+      213: 1969572294609801009
+    second: Spritesheet Card Deck In_59
+  - first:
+      213: -3501845189018360551
+    second: Spritesheet Card Deck In_60
+  - first:
+      213: 2863518990223328144
+    second: Spritesheet Card Deck In_61
+  - first:
+      213: -7910919463593292373
+    second: Spritesheet Card Deck In_119
+  - first:
+      213: 2411987482744512859
+    second: Spritesheet Card Deck In_63
+  - first:
+      213: 8613071265690741865
+    second: Spritesheet Card Deck In_64
+  - first:
+      213: 489729915083713240
+    second: Spritesheet Card Deck In_65
+  - first:
+      213: -3488066381842689813
+    second: Spritesheet Card Deck In_66
+  - first:
+      213: -2784926486103712835
+    second: Spritesheet Card Deck In_67
+  - first:
+      213: 6909745795506955975
+    second: Spritesheet Card Deck In_68
+  - first:
+      213: 6666545901366524822
+    second: Spritesheet Card Deck In_69
+  - first:
+      213: 7320403599705372138
+    second: Spritesheet Card Deck In_70
+  - first:
+      213: 1641568250665548504
+    second: Spritesheet Card Deck In_71
+  - first:
+      213: 6589692877778754937
+    second: Spritesheet Card Deck In_72
+  - first:
+      213: -9204177447768746315
+    second: Spritesheet Card Deck In_73
+  - first:
+      213: 6572187294211511224
+    second: Spritesheet Card Deck In_74
+  - first:
+      213: 889818636562968587
+    second: Spritesheet Card Deck In_75
+  - first:
+      213: 4616602666071065476
+    second: Spritesheet Card Deck In_76
+  - first:
+      213: 1193905710235248695
+    second: Spritesheet Card Deck In_77
+  - first:
+      213: -6719160528671324266
+    second: Spritesheet Card Deck In_78
+  - first:
+      213: -1660822836835476854
+    second: Spritesheet Card Deck In_79
+  - first:
+      213: 4751107589169985656
+    second: Spritesheet Card Deck In_120
+  - first:
+      213: -5457914802428921414
+    second: Spritesheet Card Deck In_81
+  - first:
+      213: -7084775672369133607
+    second: Spritesheet Card Deck In_82
+  - first:
+      213: 2973310840924313617
+    second: Spritesheet Card Deck In_83
+  - first:
+      213: 8619655056285841234
+    second: Spritesheet Card Deck In_84
+  - first:
+      213: 5610181810793998761
+    second: Spritesheet Card Deck In_85
+  - first:
+      213: -2599951070109828200
+    second: Spritesheet Card Deck In_86
+  - first:
+      213: -7568180337552262060
+    second: Spritesheet Card Deck In_87
+  - first:
+      213: 6674039294060783240
+    second: Spritesheet Card Deck In_88
+  - first:
+      213: 8587692358351862571
+    second: Spritesheet Card Deck In_89
+  - first:
+      213: -7850452090216278105
+    second: Spritesheet Card Deck In_90
+  - first:
+      213: 2343657741066992215
+    second: Spritesheet Card Deck In_91
+  - first:
+      213: -8589012640926248120
+    second: Spritesheet Card Deck In_92
+  - first:
+      213: -6609314663804077461
+    second: Spritesheet Card Deck In_93
+  - first:
+      213: -7466513131638673688
+    second: Spritesheet Card Deck In_94
+  - first:
+      213: 2909425031144904979
+    second: Spritesheet Card Deck In_95
+  - first:
+      213: 5578881555354816543
+    second: Spritesheet Card Deck In_96
+  - first:
+      213: 7539143210721162350
+    second: Spritesheet Card Deck In_97
+  - first:
+      213: 8821751073506349414
+    second: Spritesheet Card Deck In_121
+  - first:
+      213: 1526448127311162549
+    second: Spritesheet Card Deck In_99
+  - first:
+      213: 5570393851649662983
+    second: Spritesheet Card Deck In_100
+  - first:
+      213: -292179328747239791
+    second: Spritesheet Card Deck In_101
+  - first:
+      213: 6994659482782889720
+    second: Spritesheet Card Deck In_102
+  - first:
+      213: -6628753940389506885
+    second: Spritesheet Card Deck In_103
+  - first:
+      213: -2868631837275967948
+    second: Spritesheet Card Deck In_104
+  - first:
+      213: 7271527328229660519
+    second: Spritesheet Card Deck In_105
+  - first:
+      213: 101457153824151301
+    second: Spritesheet Card Deck In_106
+  - first:
+      213: 7652068018357591154
+    second: Spritesheet Card Deck In_107
+  - first:
+      213: -7756244615152598645
+    second: Spritesheet Card Deck In_108
+  - first:
+      213: -4253823183541502032
+    second: Spritesheet Card Deck In_109
+  - first:
+      213: -3141642524925954213
+    second: Spritesheet Card Deck In_110
+  - first:
+      213: -7842761076164195831
+    second: Spritesheet Card Deck In_111
+  - first:
+      213: -7969351225593725649
+    second: Spritesheet Card Deck In_112
+  - first:
+      213: -2156911197018574864
+    second: Spritesheet Card Deck In_113
+  - first:
+      213: -2595567936991242162
+    second: Spritesheet Card Deck In_114
+  - first:
+      213: -4547681800512729569
+    second: Spritesheet Card Deck In_115
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_0
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac02345ccd61a660800000000000000
+      internalID: 7395312787472387242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_1
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9558f1c61e777c0800000000000000
+      internalID: -4073539483431773714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_2
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe7dd8387300f90800000000000000
+      internalID: -6989525583519027354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_3
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83b5314e6b9b66a0800000000000000
+      internalID: -6454894743062727795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_4
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f2672c2655cf390800000000000000
+      internalID: -7783252173345378455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_5
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c026e29617c3d7a60800000000000000
+      internalID: 7673355797902811660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_6
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168f1ac76db6ae80800000000000000
+      internalID: -8167632620719471076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_7
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a8eaced7e222460800000000000000
+      internalID: 7215380671377607252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_116
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 6114
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26599fca66cf2bd70800000000000000
+      internalID: 9057579318514390370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc247787b7f2f0d0800000000000000
+      internalID: -3390375201832948514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4955f4dca6622a0800000000000000
+      internalID: -6762600360418372409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_11
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0493c0e45192e0800000000000000
+      internalID: -2120820625184125290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_12
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031f52fc80f5e9d0800000000000000
+      internalID: -2745523909660044538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_13
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13062044579057b90800000000000000
+      internalID: -7244874026298744783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_14
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced207f641f72050800000000000000
+      internalID: 5775850334220115651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_15
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4cf0baa01153570800000000000000
+      internalID: 8445675413720515753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_16
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf962b1e73144820800000000000000
+      internalID: 2901465492275765189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_17
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0541f2f65f53b20800000000000000
+      internalID: 3113664575276601532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_18
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553c3d5efd06986c0800000000000000
+      internalID: -4140671867640626347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_19
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99087358ebc00780800000000000000
+      internalID: -8718744679896053350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_20
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5a2fb838511cbb0800000000000000
+      internalID: -4917625663379036717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_21
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3c87054b0809c0800000000000000
+      internalID: -3960903481165070838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_22
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27a11fd50086b090800000000000000
+      internalID: -8019081323780921553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_23
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc8079c1c8f38b40800000000000000
+      internalID: 5441466285985664215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_24
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1180960070fcb80b0800000000000000
+      internalID: -5725254872292849647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_25
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7dfcbffce7dc3f0800000000000000
+      internalID: -878906920519346221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_117
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 5095
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63f9d30435f36f0800000000000000
+      internalID: -702751481469651291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffe375f2f9ca99d0800000000000000
+      internalID: -2766676975728463879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_28
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45e29b828eaa340800000000000000
+      internalID: 4875964808185140408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_29
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354a7614ea11fa880800000000000000
+      internalID: -8597633723507694509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_30
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90de2a0596ee7250800000000000000
+      internalID: 5944442085970989210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_31
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971498f2082bf10f0800000000000000
+      internalID: -1143999516705734279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_32
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf7de934b02e12a0800000000000000
+      internalID: -6764933631825838143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_33
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a6ae447c04b8010800000000000000
+      internalID: 1192117750968511070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_34
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b3a355a2192ab0800000000000000
+      internalID: -5032470607327678015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_35
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac684461ba01bd530800000000000000
+      internalID: 3880713830908856010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_36
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39b35e8cee96d000800000000000000
+      internalID: 60410383853402426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_37
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79343e0cc9775c9b0800000000000000
+      internalID: -5060507091146161257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_38
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5017e7cb178ed83b0800000000000000
+      internalID: -5508491194012897019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_39
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7274320351ee79660800000000000000
+      internalID: 7392639088121300775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_40
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0975339bda11ab90800000000000000
+      internalID: -7232469996210390771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_41
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd672827708f6d80800000000000000
+      internalID: -8255238342683693638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_42
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dafe6de7602890800000000000000
+      internalID: -7484868311222923125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_43
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f0a35e86297e800800000000000000
+      internalID: 641642451143626553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_118
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 4076
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca14a8dd98f2690800000000000000
+      internalID: -7624724059514622883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9663e16b1ac46630800000000000000
+      internalID: 3919479794674394783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c5bfed13502a7a0800000000000000
+      internalID: -6367521211395908462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_47
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de752285ef76050d0800000000000000
+      internalID: -3436132173585688595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_48
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3855ad08b8ffaa80800000000000000
+      internalID: -8453264506164520900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_49
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127ef65c7139a580800000000000000
+      internalID: -8815460385495813609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_50
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dd7214934ade860800000000000000
+      internalID: 7560879915238153538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_51
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9edd132e6b23d20800000000000000
+      internalID: 3256866563157780949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_52
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b33281e9e4427f0800000000000000
+      internalID: -638298806263006408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_53
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c4d5ae222e67f0800000000000000
+      internalID: -617518515157153420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_54
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d58a11f9ebc7a0800000000000000
+      internalID: -6355729227361954575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_55
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43018fc193a68b0800000000000000
+      internalID: -5158247626615802666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_56
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fcd7b068b750b20800000000000000
+      internalID: 3100019734163083085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_57
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d90498d84036ac0800000000000000
+      internalID: -3863239049414140522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_58
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0c4c809043a8910800000000000000
+      internalID: 1840340611140731076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_59
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0ba31193555b10800000000000000
+      internalID: 1969572294609801009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_60
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915662aaa52f66fc0800000000000000
+      internalID: -3501845189018360551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_61
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093c8db99534db720800000000000000
+      internalID: 2863518990223328144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_119
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 3057
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad4cc569a4c63290800000000000000
+      internalID: -7910919463593292373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51eca716d9197120800000000000000
+      internalID: 2411987482744512859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_64
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cee90aea6c78770800000000000000
+      internalID: 8613071265690741865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_65
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da627853cedbc600800000000000000
+      internalID: 489729915083713240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_66
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d8453b16e79fc0800000000000000
+      internalID: -3488066381842689813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_67
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1636bd14f959d0800000000000000
+      internalID: -2784926486103712835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_68
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6e07d013954ef50800000000000000
+      internalID: 6909745795506955975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_69
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb9c92d24548c50800000000000000
+      internalID: 6666545901366524822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_70
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5fdece94c479560800000000000000
+      internalID: 7320403599705372138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_71
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daba7760a508c610800000000000000
+      internalID: 1641568250665548504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_72
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d9ce632ca437b50800000000000000
+      internalID: 6589692877778754937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_73
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b615188061344080800000000000000
+      internalID: -9204177447768746315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_74
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b310dce589153b50800000000000000
+      internalID: 6572187294211511224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_75
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00bbd2e555495c00800000000000000
+      internalID: 889818636562968587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_76
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483894c3aa7711040800000000000000
+      internalID: 4616602666071065476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_77
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e1e9faea919010800000000000000
+      internalID: 1193905710235248695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_78
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69748bb491fb0c2a0800000000000000
+      internalID: -6719160528671324266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_79
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9097ed6293f8e0800000000000000
+      internalID: -1660822836835476854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_120
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 2038
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b32e0e235fe140800000000000000
+      internalID: 4751107589169985656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9b0ea87679144b0800000000000000
+      internalID: -5457914802428921414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_82
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7cb1f0012ddad90800000000000000
+      internalID: -7084775672369133607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_83
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1189c10e472534920800000000000000
+      internalID: 2973310840924313617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_84
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2573154da9a2f9770800000000000000
+      internalID: 8619655056285841234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_85
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ebb502ae5bdd40800000000000000
+      internalID: 5610181810793998761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_86
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf4b0e64e1bebd0800000000000000
+      internalID: -2599951070109828200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_87
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cf918b41c68f690800000000000000
+      internalID: -7568180337552262060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_88
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ed7b9063fe9c50800000000000000
+      internalID: 6674039294060783240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_89
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b36eb43bc9d2770800000000000000
+      internalID: 8587692358351862571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_90
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a79f6cda679d0390800000000000000
+      internalID: -7850452090216278105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_91
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a746b5c48568020800000000000000
+      internalID: 2343657741066992215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_92
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84350467282bdc880800000000000000
+      internalID: -8589012640926248120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_93
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a7d27b45ff644a0800000000000000
+      internalID: -6609314663804077461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_94
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee23e5bddd916890800000000000000
+      internalID: -7466513131638673688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_95
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319950aa6aa506820800000000000000
+      internalID: 2909425031144904979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_96
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1017e6673b2c6d40800000000000000
+      internalID: 5578881555354816543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_97
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6435d95eca60a860800000000000000
+      internalID: 7539143210721162350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_121
+      rect:
+        serializedVersion: 2
+        x: 7310
+        y: 1019
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66154499cd72d6a70800000000000000
+      internalID: 8821751073506349414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc217cfb780f2510800000000000000
+      internalID: 1526448127311162549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_100
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7002992e1b30e4d40800000000000000
+      internalID: 5570393851649662983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_101
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960f43d278f1fbf0800000000000000
+      internalID: -292179328747239791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_102
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f677148db5021160800000000000000
+      internalID: 6994659482782889720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_103
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0dc9f696fe104a0800000000000000
+      internalID: -6628753940389506885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_104
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e2acbea829038d0800000000000000
+      internalID: -2868631837275967948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_105
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7679cad2497a9e460800000000000000
+      internalID: 7271527328229660519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_106
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075c9d6eb2786100800000000000000
+      internalID: 101457153824151301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_107
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cd45ff15b913a60800000000000000
+      internalID: 7652068018357591154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_108
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b810bcaed984c5490800000000000000
+      internalID: -7756244615152598645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_109
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfffaf2a5267f4c0800000000000000
+      internalID: -4253823183541502032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_110
+      rect:
+        serializedVersion: 2
+        x: 4730
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f68ac4c4a664d0800000000000000
+      internalID: -3141642524925954213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_111
+      rect:
+        serializedVersion: 2
+        x: 5160
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a09fc9a5ae82390800000000000000
+      internalID: -7842761076164195831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_112
+      rect:
+        serializedVersion: 2
+        x: 5590
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d7924a84d276190800000000000000
+      internalID: -7969351225593725649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_113
+      rect:
+        serializedVersion: 2
+        x: 6020
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff25a1b1bc1112e0800000000000000
+      internalID: -2156911197018574864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_114
+      rect:
+        serializedVersion: 2
+        x: 6450
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e485e3596b0bafbd0800000000000000
+      internalID: -2595567936991242162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spritesheet Card Deck In_115
+      rect:
+        serializedVersion: 2
+        x: 6880
+        y: 0
+        width: 430
+        height: 1019
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e0ee04f7363e0c0800000000000000
+      internalID: -4547681800512729569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
